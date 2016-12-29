@@ -1,0 +1,560 @@
+﻿td.table_header a[href*="order=1&"]{background: url(http://i.imgur.com/8COgW.png) no-repeat; padding: 3px 0px 3px 40px;}
+
+@supports (-webkit-appearance:none) {.animetitle {padding-top: 9px !important; padding-bottom: 11px !important;}}    
+.animetitle {padding: 10px 0px 8px 40px; background-repeat: no-repeat !important; background: url(http://i.imgur.com/t6hMiAX.png);}
+.animetitle:after {font-weight: normal; font-size: 11px; color: #a00000;}
+
+a[href*="/ownlist/"] {background: none !important;}
+a[href*="/ownlist/"]:after {content: "" !important;}
+
+/* Completed ------------------------------------------------------------------------------------------*/
+
+a[href*="/31790/"]{background: url(http://i.imgur.com/tHWXwRB.png);}
+a[href*="/31790/"]:after {content: " - Amu Shinmei - ep.3,10"}
+
+a[href*="/25013/"]{background: url(http://i.imgur.com/dvBOCrM.png);}
+a[href*="/25013/"]:after {content: " - Yun"}
+
+a[href*="/6987/"]{background: url(http://i.imgur.com/sc5QJ.png);}
+a[href*="/6987/"]:after {content: " - Sora Aoi"}
+
+a[href*="/28249/"]{background: url(http://i.imgur.com/QHv570H.png);}
+a[href*="/28249/"]:after {content: " - Elam"}
+
+a[href*="/12581/"]{background: url(http://i.imgur.com/ZEjq5u1.png);}
+a[href*="/12581/"]:after {content: " - Yuuki Kagami"}
+
+a[href*="/9736/"]{background: url(http://i.imgur.com/i4SiCkn.png);}
+a[href*="/9736/"]:after {content: " - Naoya Touhara - ep.5,10"}
+
+a[href*="/6347/"],
+a[href*="/8516/"],
+a[href*="/7805/"],
+a[href*="/7870/"],
+a[href*="/10431/"],
+a[href*="/9471/"]{background: url(http://i.imgur.com/9PzRU.png);}
+a[href*="/6347/"]:after,
+a[href*="/8516/"]:after,
+a[href*="/7805/"]:after, 
+a[href*="/7870/"]:after, 
+a[href*="/10431/"]:after, 
+a[href*="/9471/"]:after {content: " - Hideyoshi Kinoshita"}
+
+a[href*="/1185/"]{background: url(http://i.imgur.com/4El1vNV.png);}
+a[href*="/1185/"]:after {content: " - Anna Respighi"}
+
+a[href*="/1519/"]{background: url(http://i.imgur.com/5DM4CYs.png);}
+a[href*="/1519/"]:after {content: " - Gretel"}
+
+a[href*="/1639/"],
+a[href*="/5391/"]{background: url(http://i.imgur.com/1wdb3.png);}
+a[href*="/4866/"]{background: url(http://i.imgur.com/I73UX.png); padding-left: 73px;}
+a[href*="/1639/"]:after,
+a[href*="/5391/"]:after {content: " - Pico"}
+a[href*="/4866/"]:after {content: " - Pico, CoCo"}
+
+a[href*="/10719/"],
+a[href*="/14027/"],
+a[href*="/14967/"]{background: url(http://i.imgur.com/ZjxDl.png);}
+a[href*="/10719/"]:after,
+a[href*="/14027/"]:after,
+a[href*="/14967/"]:after {content: " - Yukimura Kusunoki"}
+
+a[href*="/4181/"]{background: url(http://i.imgur.com/KdjNA5y.png);}
+a[href*="/4181/"]:after {content: " - Katsuki Shima - ep.5,6"}
+
+a[href*="/29067/"],
+a[href*="/26349/"]{background: url(http://i.imgur.com/dWStTzV.png);}
+a[href*="/29067/"]:after,
+a[href*="/26349/"]:after {content: " - Mayotama"}
+
+a[href*="/15109/"]{background: url(http://i.imgur.com/lg7MoL3.png);}
+a[href*="/15109/"]:after {content: " - Yuuta Sasaki"}
+
+a[href*="/20031/"]{background: url(http://i.imgur.com/3jxAHpu.png);}
+a[href*="/20031/"]:after {content: " - Sakuragaoka"}
+
+a[href*="/16592/"]{background: url(http://i.imgur.com/9EEqaOh.png);}
+a[href*="/16592/"]:after {content: " - Chihiro Fujisaki"}
+
+a[href*="/19163/"]{background: url(http://i.imgur.com/eYjGKxB.png);}
+a[href*="/19163/"]:after {content: " - Shidou Itsuka"}
+
+a[href*="/29589/"]{background: url(http://i.imgur.com/zqYz2yT.png);}
+a[href*="/29589/"]:after {content: " - Koutarou \"Luce, The Ironclad Sister\" Araki"}
+
+a[href*="/14073/"]{background: url(http://i.imgur.com/j7GJ5nW.png);}
+a[href*="/14073/"]:after {content: " - Itsuki Noya"}
+
+a[href*="/724/"]{background: url(http://i.imgur.com/WmkF8uU.png);}
+a[href*="/724/"]:after {content: " - Vallewida"}
+
+a[href*="/2042/"]{background: url(http://i.imgur.com/NhhhcCH.png);}
+a[href*="/2042/"]:after {content: " - Ladios Sopp"}
+
+a[href*="/120/"]{background: url(http://i.imgur.com/Kkyz8e5.png);}
+a[href*="/120/"]:after {content: " - Ritsu Sohma"}
+
+a[href*="/33222/"]{background: url(http://i.imgur.com/Z4Zt1OJ.png); padding-left: 106px;}
+a[href*="/33222/"]:after {content: " - Yuujirou Shiratori, Akira Ueda, Toshiaki Nakamura - ep.8"}
+
+a[href*="/17747/"]{background: url(http://i.imgur.com/zi4WiWW.png);}
+a[href*="/17747/"]:after {content: " - \"anata\""}
+
+a[href*="/18229/"],
+a[href*="/21039/"]{background: url(http://i.imgur.com/iRYEFc3.png);}
+a[href*="/18229/"]:after,
+a[href*="/21039/"]:after {content: " - Rui \"Load Galax\" Ninomiya"}
+
+a[href*="/2508/"]{background: url(http://i.imgur.com/UQQMAu8.png);}
+a[href*="/2508/"]:after {content: " - Makoto Kousaka"}
+
+a[href*="/19889/"],
+a[href*="/18465/"]{background: url(http://i.imgur.com/mDHK4y1.png);}
+a[href*="/19889/"]:after,
+a[href*="/18465/"]:after {content: " - Kenjirou \"Mysterious Beauty\" Hato"}
+
+a[href*="/132/"]{background: url(http://i.imgur.com/MJ7j9io.png);}
+a[href*="/132/"]:after {content: " - Kazuki Fuuchoin"}
+
+a[href*="/15605/"]{background: url(http://i.imgur.com/NEnfGSf.png);}
+a[href*="/15605/"]:after {content: " - Hikaru Asahina"}
+
+a[href*="/5353/"]{background: url(http://i.imgur.com/GEK1j2v.png);}
+a[href*="/5353/"]:after {content: " - Yuu Shiina"}
+
+a[href*="/14811/"]{background: url(http://i.imgur.com/6I3WExr.png);}
+a[href*="/14811/"]:after {content: " - Kyouya Shinomiya"}
+
+a[href*="/21635/"]{background: url(http://i.imgur.com/6I3WExr.png);}
+a[href*="/21635/"]:after {content: " - Kyouya Shinomiya"}
+
+a[href*="/23251/"]{background: url(http://i.imgur.com/uoGtLIY.png);}
+a[href*="/23251/"]:after {content: " - Kokkuri-san - ep.11"}
+
+a[href*="/30721/"]{background: url(http://i.imgur.com/aCVYcis.png);}
+a[href*="/30721/"]:after {content: " - Hacka Doll No. 3"}
+
+a[href*="/30721/"]{background: url(http://i.imgur.com/aCVYcis.png);}
+a[href*="/30721/"]:after {content: " - Hacka Doll No. 3"}
+
+a[href*="/18671/"]{background: url(http://i.imgur.com/jmnKvD7.png);}
+a[href*="/18671/"]:after {content: " - Yuuta \"Dark Flame Master\" Togashi - ep.3"}
+
+a[href*="/3411/"]{background: url(http://i.imgur.com/k69flHu.png);}
+a[href*="/3411/"]:after {content: " - Yuki Saegusa"}
+
+a[href*="/11785/"],
+a[href*="/18713/"],
+a[href*="/15699/"]{background: url(http://i.imgur.com/2c74K.png);}
+a[href*="/11785/"]:after,
+a[href*="/18713/"]:after,
+a[href*="/15699/"]:after {content: " - Hastur"}
+
+a[href*="/32648/"]{background: url(http://i.imgur.com/d9xIATn.png);}
+a[href*="/32648/"]:after {content: " - Sousuke Kojika - ep.8,12"}
+
+a[href*="/1570/"],
+a[href*="/1902/"]{background: url(http://i.imgur.com/qtssr.png);}
+a[href*="/1570/"]:after {content: " - Jun Watarase"}
+
+a[href*="/2026/"],
+a[href*="/4192/"]{background: url(http://i.imgur.com/AsUK7jz.png);}
+a[href*="/2026/"]:after,
+a[href*="/4192/"]:after {content: " - Hayate \"Hayata\" Ayasaki"}
+
+a[href*="/11239/"]{background: url(http://i.imgur.com/c0G7UAT.png);}
+a[href*="/11239/"]:after {content: " - Juliet - ep.8"}
+
+a[href*="/15451/"]{background: url(http://i.imgur.com/XyVN8LD.png);}
+a[href*="/15451/"]:after {content: " - Gasper \"Vampire-in-a-box\" Vladi"}
+
+a[href*="/22835/"]{background: url(http://i.imgur.com/gy0786z.png); padding-left: 139px;}
+a[href*="/22835/"]:after {content: " - Hime Arikawa, Kaguya Arikawa, Mitsunaga Oda, Hiro"}
+
+a[href*="/10079/"]{background: url(http://i.imgur.com/olNI7m7.png);}
+a[href*="/10079/"]:after {content: " - Ayumu Hoshino - ep.5"}
+
+a[href*="/11161/"]{background: url(http://i.imgur.com/olNI7m7.png);}
+a[href*="/11161/"]:after {content: " - Ayumu Hoshino"}
+
+a[href*="/8426/"],
+a[href*="/10935/"]{background: url(http://i.imgur.com/4MJ9O.png);}
+a[href*="/8426/"]:after,
+a[href*="/10935/"]:after {content: " - Shuuichi Nitori"}
+
+a[href*="/509/"]{background: url(http://i.imgur.com/ux6kw.png);}
+a[href*="/509/"]:after {content: " - Hibiki Amawa"}
+
+a[href*="/637/"]{background: url(http://i.imgur.com/iSlihwB.png);}
+a[href*="/637/"]:after {content: " - Kaneto Sakurai"}
+
+a[href*="/25159/"]{background: url(http://i.imgur.com/jFcRP0H.png);}
+a[href*="/25159/"]:after {content: " - Jurai \"July\" Andou - ep.4"}
+
+a[href*="/7054/"]{background: url(http://i.imgur.com/uzfUI.png);}
+a[href*="/7054/"]:after {content: " - Aoi Hyoudou"}
+
+a[href*="/9205/"]{background: url(http://i.imgur.com/S3xwq.png);}
+a[href*="/9205/"]:after {content: " - Gonzaburou \"Gon-chan\" Sasaki"}
+
+a[href*="/16706/"]{background: url(http://i.imgur.com/p0fHYOp.png);}
+a[href*="/16706/"]:after {content: " - Keima \"Kami-sama\" Katsuragi"}
+
+a[href*="/19685/"]{background: url(http://i.imgur.com/jBS2Ei4.png);}
+a[href*="/19685/"]:after {content: " - Megumu Touzokuyama"}
+
+a[href*="/10460/"]{background: url(http://i.imgur.com/fCSKQn9.png);}
+a[href*="/10460/"]:after {content: " - Shun Matsuoka"}
+
+a[href*="/19575/"]{background: url(http://i.imgur.com/yuUzuKK.png);}
+a[href*="/19575/"]:after {content: " - Mitsuru Kobayashi"}
+
+a[href*="/1804/"]{background: url(http://i.imgur.com/gj8pPbJ.png); padding-left: 73px;}
+a[href*="/1804/"]:after {content: " - Shun Kisaragi, Reina Kisaragi"}
+
+a[href*="/8129/"],
+a[href*="/9754/"]{background: url(http://i.imgur.com/0nAen.png);}
+a[href*="/8129/"]:after,
+a[href*="/9754/"]:after {content: " - Kuranosuke \"Kurako\" Koibuchi"}
+
+a[href*="/4898/"]{background: url(http://i.imgur.com/nEdRi92.png);}
+a[href*="/4898/"]:after {content: " - Ciel Phantomhive"}
+
+a[href*="/6707/"]{background: url(http://i.imgur.com/jyDxfw6.png);}
+a[href*="/6707/"]:after {content: " - Alois Trancy"}
+
+a[href*="/9834/"]{background: url(http://i.imgur.com/0PBjm1F.png);}
+a[href*="/9834/"]:after {content: " - Baka \"Baka-ouji\" Ki El Dogra"}
+
+a[href*="/23321/"]{background: url(http://i.imgur.com/vEYzEC8.png);}
+a[href*="/23321/"]:after {content: " - Tetra"}
+
+a[href*="/1013/"]{background: url(http://i.imgur.com/2qzrBbR.png); padding-left: 73px;}
+a[href*="/1013/"]:after {content: " - D'Eon de Beaumont, Robin"}
+
+a[href*="/21105/"]{background: url(http://i.imgur.com/p0eDYHY.png);}
+a[href*="/21105/"]:after {content: " - Izumi Sena"}
+
+a[href*="/2034/"]{background: url(http://i.imgur.com/zmSdJ.png);}
+a[href*="/2034/"]:after {content: " - Seishiro \"Seiko\" Kotobuki"}
+
+a[href*="/16890/"]{background: url(http://i.imgur.com/DMp3aWV.png);}
+a[href*="/16890/"]:after {content: " - Sitri Cartwright"}
+
+a[href*="/21863/"]{background: url(http://i.imgur.com/c88QQuf.png);}
+a[href*="/21863/"]:after {content: " - Yuuki Aito - ep.8"}
+
+a[href*="/1729/"],
+a[href*="/3750/"]{background: url(http://i.imgur.com/JmdB8wF.png);}
+a[href*="/1729/"]:after,
+a[href*="/3750/"]:after {content: " - Kintarou \"Alice\" Arisugawa"}
+
+a[href*="/5030/"],
+a[href*="/9712/"]{background: url(http://i.imgur.com/ZAqVG.png);}
+a[href*="/5030/"]:after,
+a[href*="/9712/"]:after {content: " - Mariya Shidou"}
+
+a[href*="/9337/"]{background: url(http://i.imgur.com/56tzY2N.png);}
+a[href*="/9337/"]:after {content: " - traps everywhere"}
+
+a[href*="/27559/"]{background: url(http://i.imgur.com/mC0zUaf.png);}
+a[href*="/27559/"]:after {content: " - Akira"}
+
+a[href*="/4087/"]{background: url(http://i.imgur.com/KbeeRYW.png);}
+a[href*="/4087/"]:after {content: " - Bebel Feng-Yi - ep.17"}
+
+a[href*="/2981/"]{background: url(http://i.imgur.com/cz0s5rL.png);}
+a[href*="/2981/"]:after {content: " - Kanabun"}
+
+a[href*="/2963/"],
+a[href*="/5713/"],
+a[href*="/5162/"],
+a[href*="/3225/"],
+a[href*="/14575/"],
+a[href*="/14511/"]{background: url(http://i.imgur.com/fl7lw.png);}
+a[href*="/2963/"]:after,
+a[href*="/5713/"]:after,
+a[href*="/5162/"]:after,
+a[href*="/3225/"]:after,
+a[href*="/14575/"]:after,
+a[href*="/14511/"]:after {content: " - Makoto"}
+
+a[href*="/8424/"]{background: url(http://i.imgur.com/Hf82W.png);}
+a[href*="/8424/"]:after {content: " - Tatsukichi \"Tatsumi Antoinette XVI\" Hayama"}
+
+a[href*="/19/"]{background: url(http://i.imgur.com/Tl61dUr.png);}
+a[href*="/19/"]:after {content: " - Johan Liebert"}
+
+a[href*="/3001/"]{background: url(http://i.imgur.com/DMuNK.png);}
+a[href*="/13409/"]{background: url(http://i.imgur.com/DMuNK.png);}
+a[href*="/3001/"]:after,
+a[href*="/13409/"]:after {content: " - Kei Yuuki"}
+
+a[href*="/8162/"]{background: url(http://i.imgur.com/AXWMaw6.png);}
+a[href*="/8162/"]:after {content: " - Mamiya Mugen"}
+
+a[href*="/12057/"]{background: url(http://i.imgur.com/RRjMug8.png);}
+a[href*="/12057/"]:after {content: " - Mitsuru Utsumi"}
+
+a[href*="/5383/"]{background: url(http://i.imgur.com/owbQR5X.png);}
+a[href*="/5383/"]:after {content: " - Yasunari Mitorogi"}
+
+a[href*="/877/"]{background: url(http://i.imgur.com/3153vIY.png);}
+a[href*="/877/"]:after {content: " - Shinichi \"Shin\" Okazaki - ep.46,47"}
+
+a[href*="/4081/"]{background: url(http://i.imgur.com/XIUl3Ke.png);}
+a[href*="/4081/"]:after {content: " - Kogitsune"}
+
+a[href*="/17371/"]{background: url(http://i.imgur.com/dqq28Bl.png);}
+a[href*="/17371/"]:after {content: " - Natsuki"}
+
+a[href*="/7322/"]{background: url(http://i.imgur.com/S1zLEAb.png);}
+a[href*="/7322/"]:after {content: " - Cruz \"Yamada Nadeshiko\" Schild"}
+
+a[href*="/10161/"]{background: url(http://i.imgur.com/QbIVILZ.png);}
+a[href*="/10161/"]:after {content: " - Nezumi"}
+
+a[href*="/2790/"]{background: url(http://i.imgur.com/3Pu9hA1.png);}
+a[href*="/2790/"]:after {content: " - Banji \"Sukeban\" Suke"}
+
+a[href*="/31848/"]{background: url(http://i.imgur.com/BFrMO1q.png);}
+a[href*="/31848/"]:after {content: " - Wakabayashi Isamu - ep.6"}
+
+a[href*="/10353/"]{background: url(http://i.imgur.com/VjkRSP2.png); padding-left: 73px;}
+a[href*="/10353/"]:after {content: " - Okama \"Catherine\" Shinya, Yamazaki Taro"}
+
+a[href*="/28819/"],
+a[href*="/32603/"] {background: url(http://i.imgur.com/mRpeEYJ.png);}
+a[href*="/28819/"]:after {content: " - Hayato Izumi - ep.8"}
+a[href*="/32603/"]:after {content: " - Hayato Izumi - ep.12"}
+
+a[href*="/13379/"]{background: url(http://i.imgur.com/Sn7yOv8.png);}
+a[href*="/13379/"]:after {content: " - Komori Sayo"}
+
+a[href*="/7915/"]{background: url(http://i.imgur.com/tp7i9I6.png);}
+a[href*="/7915/"]:after {content: " - Jonjon"}
+
+a[href*="/10429/"]{background: url(http://i.imgur.com/la7xZfr.png);}
+a[href*="/10429/"]:after {content: " - Hikaru Aisaka"}
+
+a[href*="/1569/"]{background: url(http://i.imgur.com/T71Gi.png);}
+a[href*="/1569/"]:after {content: " - Mizuho Miyanokouji"}
+
+a[href*="/9988/"]{background: url(http://i.imgur.com/KhawD.png);}
+a[href*="/9988/"]:after {content: " - Chihaya Kisakinomiya"}
+
+a[href*="/853/"]{background: url(http://i.imgur.com/BBtZ9bk.png);}
+a[href*="/853/"]:after {content: " - Batya"}
+
+a[href*="/29803/"]{background: url(http://i.imgur.com/nczG9Ck.png);}
+a[href*="/29803/"]:after {content: " - Mare Bello Fiore"}
+
+a[href*="/3050/"]{background: url(http://i.imgur.com/KRml4cg.png);}
+a[href*="/3050/"]:after {content: " - Akatsuki"}
+
+a[href*="/322/"]{background: url(http://i.imgur.com/62DWcz4.png);}
+a[href*="/322/"]:after {content: " - Isabella Yamamoto"}
+
+a[href*="/4136/"]{background: url(http://i.imgur.com/dQ5DEfX.png);}
+a[href*="/4136/"]:after {content: " - Kare Ijuin"}
+
+a[href*="/31559/"]{background: url(http://i.imgur.com/rUzRtNk.png); padding-left: 73px;}
+a[href*="/31559/"]:after {content: " - Hozumi Kohinata, Yuuri Himemiya"}
+
+a[href*="/907/"]{background: url(http://i.imgur.com/5UTse.png); padding-left:  106px;}
+a[href*="/907/"]:after {content: " - Mikoto Yutaka, Tooru Kouno, Yuujirou Shihoudani"}
+
+a[href*="/30240/"]{background: url(http://i.imgur.com/mpBq92o.png);}
+a[href*="/30240/"]:after {content: " - Kiyoshi Fujino - ep.4"}
+
+a[href*="/19799/"]{background: url(http://i.imgur.com/04jjBmk.png);}
+a[href*="/19799/"]:after {content: " - Minerva X"}
+
+a[href*="/338/"]{background: url(http://i.imgur.com/UwWA73h.png);}
+a[href*="/338/"]:after {content: " - Jean - ep.2"}
+
+a[href*="/21561/"]{background: url(http://i.imgur.com/M31BDGv.png);}
+a[href*="/21561/"]:after {content: " - Daruku Hoshino"}
+
+a[href*="/210/"]{background: url(http://i.imgur.com/5oJpJoU.png);}
+a[href*="/210/"]:after {content: " - Tsubasa Kurenai - ep.45,156"}
+
+a[href*="/28619/"]{background: url(http://i.imgur.com/FxCl60b.png);}
+a[href*="/28619/"]:after {content: " - Yoshio Kobayashi"}
+
+a[href*="/31240/"]{background: url(http://i.imgur.com/ZaC7xFM.png);}
+a[href*="/31240/"]:after {content: " - Felix \"Ferris\" Argail"}
+
+a[href*="/18099/"]{background: url(http://i.imgur.com/mhY9ylx.png);}
+a[href*="/18099/"]:after {content: " - Makoto Kobayashi - ep.11"}
+
+a[href*="/2781/"]{background: url(http://i.imgur.com/VxwQVHT.png);}
+a[href*="/2781/"]:after {content: " - Ryuzo Tanami"}
+
+a[href*="/13759/"]{background: url(http://i.imgur.com/MebCK.png);}
+a[href*="/13759/"]:after {content: " - Ryuunosuke Akasaka"}
+
+a[href*="/6203/"]{background: url(http://i.imgur.com/j21p6.png);}
+a[href*="/6203/"]:after {content: " - Masaki \"Akemi-chan\" Akemiya"}
+
+a[href*="/10073/"]{background: url(http://i.imgur.com/Nreoy.png);}
+a[href*="/10073/"]:after {content: " - Alexander Nikolaevich Hell"}
+
+a[href*="/29786/"]{background: url(http://i.imgur.com/7LdpI3J.png); padding-left: 73px;}
+a[href*="/29786/"]:after {content: " - Tanukichi, Oboro"}
+
+a[href*="/27413/"]{background: url(http://i.imgur.com/BvzmJDR.png);}
+a[href*="/27413/"]:after {content: " - Adam - ep.2"}
+
+a[href*="/1632/"]{background: url(http://i.imgur.com/NSAX8Ca.png);}
+a[href*="/1632/"]:after {content: " - Haneoka Fubuki"}
+
+a[href*="/2562/"]{background: url(http://i.imgur.com/ssneDbl.png);}
+a[href*="/2562/"]:after {content: " - Ayumi Saitou"}
+
+a[href*="/7110/"]{background: url(http://i.imgur.com/0r153.png);}
+a[href*="/7110/"]:after {content: " - Kuro Kazamiya"}
+
+a[href*="/32175/"]{background: url(http://i.imgur.com/iM28xJz.png); padding-left: 73px;}
+a[href*="/32175/"]:after {content: " - Chihiro Komiya, Madoka Takatori"}
+
+a[href*="/28735/"]{background: url(http://i.imgur.com/Fu6Rqfd.png);}
+a[href*="/28735/"]:after {content: " - Yakumo \"Kikuhiko\" Yuurakutei - ep.5"}
+
+a[href*="/5262/"],
+a[href*="/2923/"]{background: url(http://i.imgur.com/Hqz7L2f.png);}
+a[href*="/5262/"]:after,
+a[href*="/2923/"]:after {content: " - Nagihiko \"Nadeshiko Nagi\" Fujisaki"}
+
+a[href*="/534/"]{background: url(http://i.imgur.com/t3hnHiL.png);}
+a[href*="/534/"]:after {content: " - Gourry Gabriev - ep.17"}
+
+a[href*="/535/"]{background: url(http://i.imgur.com/4sFZG9c.png); padding-left: 139px;}
+a[href*="/535/"]:after {content: " - Gourry, Zelgadis, Xellos, Miwan - ep.17"}
+
+a[href*="/1172/"]{background: url(http://i.imgur.com/t3hnHiL.png);}
+a[href*="/1172/"]:after {content: " - Gourry Gabriev - ep.17"}
+
+a[href*="/10109/"]{background: url(http://i.imgur.com/uBXy3vB.png);}
+a[href*="/10109/"]:after {content: " - Leo Amachi - ep.6"}
+
+a[href*="/22101/"]{background: url(http://i.imgur.com/IhKHc7V.png);}
+a[href*="/22101/"]:after {content: " - Livius Orvinus \"Sun King\" Ifrikia - ep.7"}
+
+a[href*="/2779/"]{background: url(http://i.imgur.com/wuLlJjG.png); padding-left: 171px;}
+a[href*="/2779/"]:after {content: " - Takagi, Shimura, Nakamoto, Arai, Kato"}
+
+a[href*="/9253/"]{background: url(http://i.imgur.com/ou80K.png);}
+a[href*="/9253/"]:after {content: " - Ruka \"Rukako\" Urushibara"}
+
+a[href*="/10863/"]{background: url(http://i.imgur.com/ou80K.png);}
+a[href*="/10863/"]:after {content: " - Ruka \"Rukako\" Urushibara"}
+
+a[href*="/3332/"]{background: url(http://i.imgur.com/5njwOsX.png);}
+a[href*="/3332/"]:after {content: " - Hibari Oozora"}
+
+a[href*="/21067/"]{background: url(http://i.imgur.com/vOOCjvh.png);}
+a[href*="/21067/"]:after {content: " - Takumi"}
+
+a[href*="/19841/"]{background: url(http://i.imgur.com/blQFt9R.png); padding-left: 73px;}
+a[href*="/19841/"]:after {content: " - Chika Shinmoto, Ui Umezono"}
+
+a[href*="/21881/"]{background: url(http://i.imgur.com/x2WDmLg.png);}
+a[href*="/21881/"]:after {content: " - Kazuto \"Kirito\" Kirigaya - GGO arc"}
+
+a[href*="/1372/"],
+a[href*="/2010/"],
+a[href*="/2011/"],
+a[href*="/2013/"],
+a[href*="/2014/"],
+a[href*="/3000/"],
+a[href*="/4162/"]{background: url(http://i.imgur.com/3r3fpAA.png);}
+a[href*="/1372/"]:after,
+a[href*="/2010/"]:after,
+a[href*="/2011/"]:after,
+a[href*="/2013/"]:after,
+a[href*="/2014/"]:after,
+a[href*="/3000/"]:after,
+a[href*="/4162/"]:after {content: " - Futaba Aoi"}
+
+a[href*="/16417/"]{background: url(http://i.imgur.com/0UE2JZ5.png);}
+a[href*="/16417/"]:after {content: " - Kaoru Hanase"}
+
+a[href*="/7591/"]{background: url(http://i.imgur.com/fiJfM3j.png);}
+a[href*="/7591/"]:after {content: " - Motochika \"Himewakago\" Chousokabe"}
+
+a[href*="/33023/"]{background: url(http://i.imgur.com/Zfyytdi.png); padding-left: 304px;}
+a[href*="/33023/"]:after {content: " - Midare Toushirou and others"}
+
+a[href*="/1919/"]{background: url(http://i.imgur.com/h8BZz9b.png);}
+a[href*="/1919/"]:after {content: " - Nagisa Shiowatari - ep.5"}
+
+a[href*="/10321/"],
+a[href*="/12711/"]{background: url(http://i.imgur.com/bZ4JA.png);}
+a[href*="/10321/"]:after,
+a[href*="/12711/"]:after {content: " - Ringo Tsukimiya"}
+
+a[href*="/17251/"]{background: url(http://i.imgur.com/EhB8vJs.png);}
+a[href*="/17251/"]:after {content: " - Yoshiyuki Tanabe"}
+
+a[href*="/32899/"]{background: url(http://i.imgur.com/MtdXUua.png);}
+a[href*="/32899/"]:after {content: " - Hayato Shinomiya - ep.3,8"}
+
+a[href*="/6956/"],
+a[href*="/25879/"],
+a[href*="/10521/"]{background: url(http://i.imgur.com/1xOefDJ.png);}
+a[href*="/6956/"]:after,
+a[href*="/25879/"]:after,
+a[href*="/10521/"]:after {content: " - Souta \"Kotori\" Takanashi"}
+
+a[href*="/18753/"],
+a[href*="/23847/"],
+a[href*="/14813/"]{background: url(http://i.imgur.com/73QJ2xE.png);}
+a[href*="/18753/"]:after,
+a[href*="/23847/"]:after,
+a[href*="/14813/"]:after {content: " - Saika Totsuka"}
+
+/* Dropped --------------------------------------------------------------------------------------------*/
+
+a[href*="/487/"]{background: url(http://i.imgur.com/FOSJtiy.png);}
+a[href*="/487/"]:after {content: " - Yukinari Sasaki - ep.6"}
+a[href*="/1239/"]{background: url(http://i.imgur.com/7PWq63m.png);}
+a[href*="/1239/"]:after {content: " - Fisheye"}
+a[href*="/5231/"]{background: url(http://i.imgur.com/wUJ6zI6.png); padding-left: 271px;}
+a[href*="/5231/"]:after {content: " - traps everywhere"}
+a[href*="/1110/"]{background: url(http://i.imgur.com/HmRRCUN.png);}
+a[href*="/1110/"]:after {content: " - Lady Bat"}
+a[href*="/20/"]{background: url(http://i.imgur.com/iLh6V.png);}
+a[href*="/20/"]:after {content: " - Haku"}
+a[href*="/23135/"]{background: url(http://i.imgur.com/5n4M4db.png);}
+a[href*="/23135/"]:after {content: " - Leona West"}
+a[href*="/249/"]{background: url(http://i.imgur.com/jIeT9DF.png);}
+a[href*="/249/"]:after {content: " - Jakotsu"}
+a[href*="/1254/"]{background: url(http://i.imgur.com/QgRrBnz.png); padding-left: 106px;}
+a[href*="/1254/"]:after {content: " - Shun Andromeda, Aphrodite Pisces, Misty Lizard"}
+
+
+
+td[width="30"] {width: 34px !important;}
+td[width="50"] {width: 55px !important;}
+td[width="125"] {width: 235px !important; padding-left: 2px; font-size: 13px;}
+a[title="View More Information"] {padding-right: 5px;}
+.table_header {height: 30px !important; background-color: rgba(231,241,247,0.95) !important;}
+
+#list_surround
+{
+margin: 0 auto;	
+width: 82%;
+min-width: 1200px;
+position: absolute !important;
+left: 15px !important;
+}
+
+#mal\_cs\_pic {display:none;}
+#mal\_cs\_otherlinks {background: url(http://i.imgur.com/ucOMa6b.png) center no-repeat;}
+
+span[id*="tagLinks"] a[href*="tag=★"], 
+span[id*="tagLinks"] a[href*="tag=%E2%98%85"] {color: gold; font: 14px Meiryo, serif; text-decoration: none; text-shadow: 1px 1px 1px black;}
+span[id*="tagLinks"] a[href*="tag=%E2%98%86%E2%98%86%E2%98%86%E2%98%86%E2%98%86"],
+span[id*="tagLinks"] a[href*="tag=☆☆☆☆☆"] {color: #a0a0a0; font: 14px Meiryo, serif; text-decoration: none;}
