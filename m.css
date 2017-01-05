@@ -1,4 +1,5 @@
-td.table_header a[href*="order=1&"]{background: url(http://i.imgur.com/qri0bhR.png) no-repeat; padding: 2px 0px 3px 98px;}
+td.table_header a[href*="order=1&"] {padding-left: 100px;}
+td.table_header:nth-child(2) {background: #efefef url(http://i.imgur.com/ZRTJlhB.png) no-repeat;}
 
 a[href*="/ownlist/"] {background: none !important;}
 a[href*="/ownlist/"]:after {content: "" !important;}
@@ -72,14 +73,12 @@ BODY
    
     .table_header
         {
-				
-        color: #000000;
-        border-width: 1px 1px 0px 0px !important;
-        border-style: solid;
-        border-color: #7d7d7d;
+	color: #000000;
+        border-top: 1px solid #7d7d7d !important;
         background-color: #efefef;
         padding: 0px;
 	height: 24px;
+	font-size: 11px;
         }		
 		
 	.category_totals {background-color: #b8b8b8; border: 1px solid #7d7d7d;  font-size: 11px; height: 24px; padding-left: 5px;}
