@@ -7,19 +7,11 @@ font-family: Verdana, Arial;
 background-color: #FFFFFF;
 }
 
-/*
-// Determines the positioning of your list
-*/
-
 #list_surround
 {
 margin: 0 auto;
 width: 920px;
 }
-
-/*
-// All links on your list
-*/
 
 a
 {
@@ -39,13 +31,8 @@ color: #51819f;
 text-decoration: underline;
 }
 
-/*
-// Alternating row color 1
-*/
-
 .td1
 {
-
 color: #000000;
 border-width: 0px 1px 1px 0px;
 border-style: solid;
@@ -54,13 +41,8 @@ padding: 2px;
 background-color: #FFFFFF;
 }
 
-/*
-// Alternating row color 2
-*/
-
 .td2
 {
-
 color: #000000;
 border-width: 0px 1px 1px 0px;
 border-style: solid;
@@ -69,13 +51,8 @@ padding: 2px;
 background-color: #F1F1F1;
 }
 
-/*
-// This represents the "Anime Title", "Score", "# Eps" columns
-*/
-
 .table_header
 {
-
 color: #000000;
 border-width: 1px 1px 1px 0px;
 border-style: solid;
@@ -83,29 +60,6 @@ border-color: #ABABAB;
 background-color: #E7F1F7;
 padding: 2px;
 }
-
-/*
-// headerLink represents the color of the links inside the table_header
-*/
-
-.table_headerLink
-{
-color: ;
-}
-
-.table_headerLink:Visited
-{
-color: ;
-}
-
-.table_headerLink:Hover
-{
-color: ;
-}
-
-/*
-// Controls the select form decoration (the drop down select box)
-*/
 
 .form
 {
@@ -118,58 +72,24 @@ font-size: 11.00px;
 font-family: Verdana, Arial;
 }
 
-
-/* Which 'status' up top is selected? */
-
 .status_selected
 {
-
-	color: #000000;
-	border-width: 0px 1px 1px 0px;
-    border-style: solid;
-    border-color: #ABABAB;
-    padding: 2px;
-    background-color: #FFFFFF;
-	}
+color: #000000;
+border-width: 0px 1px 1px 0px;
+border-style: solid;
+border-color: #ABABAB;
+padding: 2px;
+background-color: #FFFFFF;
+}
 
 .status_not_selected
 {
-
-	color: #000000;
-	border-width: 0px 1px 1px 0px;
-    border-style: solid;
-    border-color: #ABABAB;
-    padding: 2px;
-    background-color: #F1F1F1;
-	}
-
-/*
-Header classes for Currently Watching, Completed, Dropped, etc...
-*/
-
-.header_cw
-{
-
-}
-
-.header_completed
-{
-
-}
-
-.header_onhold
-{
-
-}
-
-.header_dropped
-{
-
-}
-
-.header_ptw
-{
-
+color: #000000;
+border-width: 0px 1px 1px 0px;
+border-style: solid;
+border-color: #ABABAB;
+padding: 2px;
+background-color: #F1F1F1;
 }
 
 .header_title {
@@ -177,18 +97,10 @@ font-size: 14px;
 font-weight: bold;
 }
 
-
-.category_totals
-{
-
-}
-
 #grand_totals
 {
 text-align: center;
 }
-
-/* header_al is the div surrounding "User's Anime List" at the top */
 
 .header_al
 {
@@ -196,13 +108,6 @@ font-weight: bold;
 font-size: 16px;
 }
 
-/* header_al_links is the div with your "Profile" and "MyAnimeList home" links */
-.header_al_links
-{
-
-}
-
-/* controls what styles you can give to all the anime titles in your list */
 .animetitle
 {
 font-weight: bold;
