@@ -66,7 +66,7 @@ a[href*="/4181/"]:after {content: " - Katsuki Shima - ep.5,6"}
 a[href*="/29067/"],
 a[href*="/26349/"]{background: url(http://i.imgur.com/dWStTzV.png);}
 a[href*="/29067/"]:after,
-a[href*="/26349/"]:after {content: " - Mayotama"}
+a[href*="/26349/"]:after {content: " - Youta \"Mayotama\" Tsunashi"}
 
 a[href*="/15109/"]{background: url(http://i.imgur.com/lg7MoL3.png);}
 a[href*="/15109/"]:after {content: " - Yuuta Sasaki"}
@@ -123,17 +123,13 @@ a[href*="/15605/"]:after {content: " - Hikaru Asahina"}
 a[href*="/5353/"]{background: url(http://i.imgur.com/GEK1j2v.png);}
 a[href*="/5353/"]:after {content: " - Yuu Shiina"}
 
-a[href*="/14811/"]{background: url(http://i.imgur.com/6I3WExr.png);}
-a[href*="/14811/"]:after {content: " - Kyouya Shinomiya"}
-
+a[href*="/14811/"],
 a[href*="/21635/"]{background: url(http://i.imgur.com/6I3WExr.png);}
+a[href*="/14811/"]:after,
 a[href*="/21635/"]:after {content: " - Kyouya Shinomiya"}
 
 a[href*="/23251/"]{background: url(http://i.imgur.com/uoGtLIY.png);}
 a[href*="/23251/"]:after {content: " - Kokkuri-san - ep.11"}
-
-a[href*="/30721/"]{background: url(http://i.imgur.com/aCVYcis.png);}
-a[href*="/30721/"]:after {content: " - Hacka Doll No. 3"}
 
 a[href*="/30721/"]{background: url(http://i.imgur.com/aCVYcis.png);}
 a[href*="/30721/"]:after {content: " - Hacka Doll No. 3"}
@@ -335,8 +331,14 @@ a[href*="/32603/"]:after {content: " - Hayato Izumi - ep.12"}
 a[href*="/13379/"]{background: url(http://i.imgur.com/Sn7yOv8.png);}
 a[href*="/13379/"]:after {content: " - Komori Sayo"}
 
+a[href*="/7769/"]{background: url(http://i.imgur.com/jlhLTtS.png);}
+a[href*="/7769/"]:after {content: " - Liszt \"Likkun\" Kiriki"}
+
 a[href*="/7915/"]{background: url(http://i.imgur.com/tp7i9I6.png);}
 a[href*="/7915/"]:after {content: " - Jonjon"}
+
+a[href*="/34659/"]{background: url(http://i.imgur.com/usSGfZ7.png); padding-left: 73px;}
+a[href*="/34659/"]:after {content: " - Sora Aoi, Akane Shun"}
 
 a[href*="/10429/"]{background: url(http://i.imgur.com/la7xZfr.png);}
 a[href*="/10429/"]:after {content: " - Hikaru Aisaka"}
@@ -539,6 +541,8 @@ a[href*="/249/"]{background: url(http://i.imgur.com/jIeT9DF.png);}
 a[href*="/249/"]:after {content: " - Jakotsu"}
 a[href*="/1254/"]{background: url(http://i.imgur.com/QgRrBnz.png); padding-left: 106px;}
 a[href*="/1254/"]:after {content: " - Shun Andromeda, Aphrodite Pisces, Misty Lizard"}
+
+
 
 td[width="30"] {width: 34px !important;}
 td[width="50"] {width: 55px !important;}
