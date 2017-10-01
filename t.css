@@ -1,7 +1,6 @@
 td.table_header a[href*="order=1&"]{background: url(http://i.imgur.com/8COgW.png) no-repeat; padding: 3px 0px 3px 40px;}
 
-@supports (-webkit-appearance:none) {.animetitle {padding-top: 9px !important; padding-bottom: 11px !important;}}    
-.animetitle {padding: 10px 0px 8px 40px; background-repeat: no-repeat !important; background: url(http://i.imgur.com/t6hMiAX.png);}
+.animetitle {padding: 9px 0px 8px 40px; background-repeat: no-repeat !important; background: url(http://i.imgur.com/t6hMiAX.png);}
 .animetitle:after {font-weight: normal; font-size: 11px; color: #a00000;}
 
 a[href*="/ownlist/"] {background: none !important;}
