@@ -160,6 +160,9 @@ a[href*="/11785/"]:after,
 a[href*="/18713/"]:after,
 a[href*="/15699/"]:after {content: " - Hastur"}
 
+a[href*="/35889/"]{background: url(https://i.imgur.com/CQTSIHL.png);}
+a[href*="/35889/"]:after {content: " - Xianming \"Lin Maomei\" Lin"}
+
 a[href*="/32648/"]{background: url(http://i.imgur.com/d9xIATn.png);}
 a[href*="/32648/"]:after {content: " - Sousuke Kojika - ep.8,12"}
 
@@ -451,6 +454,9 @@ a[href*="/10073/"]:after {content: " - Alexander Nikolaevich Hell"}
 
 a[href*="/29786/"]{background: url(http://i.imgur.com/7LdpI3J.png); padding-left: 73px;}
 a[href*="/29786/"]:after {content: " - Tanukichi, Oboro"}
+
+a[href*="/35760/"]{background: url(https://i.imgur.com/42xUjGv.png);}
+a[href*="/35760/"]:after {content: " - Armin Arlert - ep.1"}
 
 a[href*="/27413/"]{background: url(http://i.imgur.com/BvzmJDR.png);}
 a[href*="/27413/"]:after {content: " - Adam - ep.2"}
